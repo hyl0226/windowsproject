@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="windowsproject"
+  id="myeclipse.1538959963700"
+  context-root="/windowsproject"
+  j2ee-spec="5.0"
+  archive="windowsproject.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
